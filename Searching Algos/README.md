@@ -6,7 +6,7 @@ Searching Algorithms are designed to check for an element or retrieve an element
 
   2. Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: Binary Search.
   
-Then there are Graph Traversal searches like Breadth First and Depth First Searches
+Then there are Graph Traversal searches like Breadth First and Depth First Searches. Even Dijkstra's Algorithm is used at times to search elements in a graph.
 
 
 Let me know if you need any that is not mentioned here.
